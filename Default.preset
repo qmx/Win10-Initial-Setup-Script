@@ -121,7 +121,7 @@ SetVisualFXPerformance          # SetVisualFXAppearance
 # AddENKeyboard                 # RemoveENKeyboard
 # EnableNumlock                 # DisableNumlock
 # DisableEnhPointerPrecision    # EnableEnhPointerPrecision
-# SetSoundSchemeNone            # SetSoundSchemeDefault
+SetSoundSchemeNone              # SetSoundSchemeDefault
 # DisableStartupSound           # EnableStartupSound
 # DisableChangingSoundScheme    # EnableChangingSoundScheme
 # EnableVerboseStatus           # DisableVerboseStatus
